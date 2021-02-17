@@ -1,4 +1,15 @@
-### Hi there 👋
+### Hi there, I'm Deniz 👋
+
+#### I'm a iOS Developer working in Istanbul.
+
+- 🔭 I’m currently working on @Yemeksepeti
+- 🌱 I’m currently learning RxSwift.
+
+### 📬 Get in Touch
+
+- [Medium](https://medium.com/@denizgeliir)
+- [Linkedin](https://www.linkedin.com/in/denizgelir)
+- <denizgeliir@gmail.com>
 
 <!--
 **denizgelir/denizgelir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

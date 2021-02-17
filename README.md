@@ -2,7 +2,7 @@
 
 #### I'm a iOS Developer working in Istanbul.
 
-- 🔭 I’m currently working on @Yemeksepeti
+- 🔭 I’m currently working on [@Yemeksepeti](https://yemeksepeti.com)
 - 🌱 I’m currently learning RxSwift.
 
 ### 📬 Get in Touch

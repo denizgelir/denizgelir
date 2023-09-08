@@ -3,7 +3,6 @@
 #### I'm a iOS Developer working in Istanbul.
 
 - 🔭  I’m currently working on [@Trendyol](https://www.trendyol.com)
-- 🌱  I’m currently learning unit test.
 
 ### 📬 Get in Touch
 

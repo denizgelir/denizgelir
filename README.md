@@ -1,6 +1,6 @@
 ### Hi there, I'm Deniz 👋
 
-#### I'm a iOS Developer working in Istanbul.
+#### I'm an iOS Developer working in Istanbul.
 
 - 🔭  I’m currently working on [@Trendyol](https://www.trendyol.com)
 
